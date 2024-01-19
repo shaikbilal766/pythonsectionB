@@ -1,0 +1,7 @@
+val1=78
+val2=0
+try:
+    val1=val1/val2
+    print("Try block is run.")
+except:
+    print("catch is run!")

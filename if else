@@ -1,0 +1,7 @@
+a=input("Enter the number")
+b="0123456789"
+if a in b:
+    print(a*2)
+else:
+    print(3(len(a)+1))
+
